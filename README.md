@@ -1,1 +1,2 @@
-# Anova
+# Anova COVID-19 Cases
+We explore the COVID-19 data consisting of confirmed, deaths, recovered, and active cases from all around the world. First, we formulate the hypothesis for our study based on that we design our experiment. One-way ANOVA statistical test fit for our case study but, we observed that raw data violate the normality assumption. So, we apply log transformation to reduce the outlier effect. Different methods like the Q-Q plot, Shapiro-Wilk test are used to test the normality of data. After ANOVA analysis, the Tukey HSD method is used for further investigation.
